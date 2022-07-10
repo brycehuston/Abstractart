@@ -1,8 +1,13 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/*
+Theme Name:     Abstract Art
+Theme URI:      https://example.com/
+Description:    Customizations for the Abstract Art website.
+Author:         Bryce Huston
+Author URI:     https://example.com/
+Template:       Divi
+Version:        0.1.0
+*/
+
 
 body {
   overflow: hidden;
